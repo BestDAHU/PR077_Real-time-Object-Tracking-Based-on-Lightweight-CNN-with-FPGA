@@ -1,0 +1,55 @@
+MainWindow{
+	background-color: #cccccc;
+    border-image:url(":resource/bg1.png"); /*or ":5.jpg"*/
+	border-width:40px;
+ 
+}
+
+QPushButton {  
+	background-color:rgb(230,200,220);
+	border-width:4px;
+	border-color:#eeeeee;
+	border-style:outset;
+	border-radius:10px; 
+    /*font-weight:bold;*/
+}  
+
+QPushButton:hover{
+	background-color:rgb(150,200,150); 
+}
+
+QPushButton:pressed {     
+    
+	background-color:rgb(255,200,200); 
+    
+}  
+
+QLabel#p0label {
+    font-family:"Microsoft YaHei";
+    font-weight:bold;
+    font-size:14px;
+    color:#000000;
+}
+
+QLabel#attr0 {
+
+    font-family:"Microsoft YaHei";
+    font-weight:bold;
+    font-size:14px;
+    color:#0000ff;
+}
+
+QLabel#p1label {
+    font-family:"Microsoft YaHei";
+    font-weight:bold;
+    font-size:14px;
+    color:#000000;
+}
+
+QLabel#attr1 {
+
+    font-family:"Microsoft YaHei";
+    font-weight:bold;
+    font-size:14px;
+    color:#0000ff;
+}

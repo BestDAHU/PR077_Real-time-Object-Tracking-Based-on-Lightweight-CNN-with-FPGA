@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+7f572b46ce0955aae92debfcbaf1a91d untitled5/CMakeFiles/untitled1_automoc
+87e287f8096285aabe04d4793da67aa9 untitled5/qrc_qss.cpp

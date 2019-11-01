@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+	<file>resource/badminton.jpg</file>
+	<file>resource/bg1.png</file>
+	<file>resource/bg.png</file>
+        <file>resource/background.jpeg</file>
+        <file>resource/0.jpg</file>
+        <file>resource/1.jpg</file>
+        <file>resource/style.qss</file>
+        <file>resource/court.jpeg</file>
+        <file>resource/court2.jpeg</file>
+	<file>resource/court1.png</file>
+    </qresource>
+</RCC>

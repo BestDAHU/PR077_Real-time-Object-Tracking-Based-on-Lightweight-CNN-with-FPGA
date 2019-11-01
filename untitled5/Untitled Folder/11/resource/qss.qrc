@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>5.jpg</file>
+        <file>style.qss</file>
+        <file>2.jpg</file>
+        <file>timg.jpg</file>
+        <file>0.jpg</file>
+        <file>1.jpg</file>
+        <file>1.jpeg</file>
+        <file>index.jpeg</file>
+        <file>th.jpeg</file>
+    </qresource>
+    <qresource prefix="/qss"/>
+</RCC>
